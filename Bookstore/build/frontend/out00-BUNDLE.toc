@@ -1,0 +1,4 @@
+([('frontend',
+   '/Users/anthonymakepace/UniGoogleDrive/University/Other/Python/Python '
+   'Programs/Bookstore/dist/frontend',
+   'EXECUTABLE')],)
